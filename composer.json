@@ -1,16 +1,10 @@
 {
-    "name": "nphp101/assets",
-    "type": "library",
-    "description": "Your package description goes here",
-    "keywords": ["relevant","tags","go","here"],
-    "homepage": "https://igiladera.com",
-    "license": "MIT",
+    "name": "x/assets",
     "authors": [
         {
-            "name": "igi atud",
-            "email": "nphp101@yahoo.com",
-            "homepage": "http://www.igiladera.com",
-            "role": "Developer"
+            "name": "igi",
+            "email": "nphp101@yahoo.com"
         }
     ],
+    "require": {}
 }
