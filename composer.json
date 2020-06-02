@@ -6,7 +6,5 @@
             "email": "nphp101@yahoo.com"
         }
     ],
-    "require": {
-    	"nphp101/assets": "1.0.0"
-    }
+    "require": {}
 }
